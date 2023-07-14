@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5a9189c-2b14-41b7-ada8-0dde3eed56bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="2ReIzTuFUayxCwoS2RVrTP4wxxM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5a9189c-2b14-41b7-ada8-0dde3eed56bf" name="Default Changelist" comment="" />
+      <created>1687604382394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687604382394</updated>
+      <workItem from="1687604383580" duration="2148000" />
+      <workItem from="1687754353489" duration="33961000" />
+      <workItem from="1687924564626" duration="29813000" />
+      <workItem from="1688619556950" duration="20567000" />
+      <workItem from="1688699980127" duration="14272000" />
+      <workItem from="1688839474749" duration="7681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="391" y="169" width="573" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1687604417580">
+      <screen x="0" y="27" width="1366" height="681" />
+    </state>
+    <state x="391" y="169" width="573" height="403" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.681@0.27.1366.681" timestamp="1687604417580" />
+    <state x="346" y="29" width="672" height="678" key="search.everywhere.popup" timestamp="1687778247754">
+      <screen x="0" y="27" width="1366" height="681" />
+    </state>
+    <state x="346" y="29" width="672" height="678" key="search.everywhere.popup/0.27.1366.681@0.27.1366.681" timestamp="1687778247754" />
+  </component>
+</project>
